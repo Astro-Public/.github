@@ -1,4 +1,4 @@
-# Astro Public - The best Roblox Exploit
+# Astro.Public - The best Roblox Exploit
 
 ### Supported Games:
 * Strucid
